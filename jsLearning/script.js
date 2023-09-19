@@ -56,7 +56,7 @@ const lolCharacter = {
     name: "Sylas",
     age: 20,
     friends: ["no friends, but have an enemy - Demacia"],
-    haveWeaknesses: false,
+    hasWeaknesses: false,
     useUltimate: () => {
         console.log("Map was destroyed (((")
     }
